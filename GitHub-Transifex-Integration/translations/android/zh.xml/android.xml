@@ -1,0 +1,8 @@
+<resources>
+  <string name="localization_manager">本地化经理</string>
+  <string name="admin_users">管理员是管理组织的人员。</string>
+  <string name="contribution">成为Transifex项目的翻译或贡献。</string>
+  <string name="updates">让我及时了解Transifex新闻</string>
+  <string name="live_status">Transifex服务的实时状态</string>
+  <string name="connect_with_users">在Transifex上与用户联系</string>
+</resources>
