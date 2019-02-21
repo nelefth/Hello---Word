@@ -1,8 +1,0 @@
-<resources>
-  <string name="localization_manager">test1</string>
-  <string name="admin_users">test2</string>
-  <string name="contribution">test3</string>
-  <string name="updates">test4</string>
-  <string name="live_status">test5</string>
-  <string name="connect_with_users">test6</string>
-</resources>
