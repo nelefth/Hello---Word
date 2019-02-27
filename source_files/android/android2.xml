@@ -1,0 +1,8 @@
+<resources>
+  <string name="localization_manager">Localization Manager1</string>
+  <string name="admin_users">Administrators are people that manage the organization.2</string>
+  <string name="contribution">Become a translator or contribute to a Transifex project.3</string>
+  <string name="updates">Keep me up to date with Transifex news4</string>
+  <string name="live_status">Live status of Transifex service5</string>
+  <string name="connect_with_users">Connect with users on Transifex6</string>
+</resources>
