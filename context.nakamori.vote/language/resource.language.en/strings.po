@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+
+#: public\js/app.js:6087 src\lib/core.js:6086
+#, python-format, javascript-format
+msgctxt "user"
+msgid "This field requires at least %d character"
+msgstr"This field requires at least %d character"
