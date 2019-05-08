@@ -5,4 +5,4 @@ msgstr ""
 #, python-format, javascript-format
 msgctxt "user"
 msgid "This field requires at least %d character"
-msgstr"This field requires at least %d character"
+msgstr "This field requires at least %d character"
