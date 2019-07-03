@@ -1,0 +1,6 @@
+{
+  "add": "test1", 
+  "add_document_email_message": "{{%1$s}} sent {{%2$s}} to this job", 
+  "add_document_message": "Uploaded {{%1$s}}", 
+  "add_step": "Add Step or Group"
+}
