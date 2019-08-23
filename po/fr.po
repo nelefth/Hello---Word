@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Transifex <nina@transifex.com>, 2019\n"
-"Language-Team: French (https://www.transifex.com/Transifex_Demo/teams/98813/fr/)\n"
+"Language-Team: French (https://www.transifex.com/Transifex_Demo/teams/96613/fr/)\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
