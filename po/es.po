@@ -1,0 +1,12 @@
+# Translators:
+# Transifex <nina@transifex.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Transifex <nina@transifex.com>, 2019\n"
+"Language-Team: Spanish (https://www.transifex.com/Transifex_Demo/teams/96613/es/)\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "General Resources"
+msgstr "German translation"
