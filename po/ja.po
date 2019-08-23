@@ -1,5 +1,12 @@
+# Translators:
+# Transifex <nina@transifex.com>, 2019
+# 
 msgid ""
 msgstr ""
+"Last-Translator: Transifex <nina@transifex.com>, 2019\n"
+"Language-Team: Japanese (https://www.transifex.com/Transifex_Demo/teams/96613/ja/)\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "General Resources"
 msgstr "Japanese translation"
