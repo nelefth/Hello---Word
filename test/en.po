@@ -1,0 +1,15 @@
+# Translators:
+# Transifex <nina@transifex.com>, 2019
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Transifex <nina@transifex.com>, 2019\n"
+"Language-Team: English (https://www.transifex.com/Transifex_Demo/teams/96613/fr/)\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: public\js/app.js:6087 src\lib/core.js:6086
+#, python-format, javascript-format
+msgctxt "user"
+msgid "This field requires at least %d character"
+msgstr "This field requires at least %d character test"
