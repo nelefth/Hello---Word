@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Transifex <nina@transifex.com>, 2019\n"
-"Language-Team: Bengali (https://www.transifex.com/Transifex_Demo/teams/96613/bn/)\n"
+"Language-Team: Bengali (https://www.transifex.com/Transifex_Demo/teams/98813/bn/)\n"
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
