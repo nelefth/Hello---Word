@@ -1,0 +1,23 @@
+es:
+  simple_form:
+    "yes": 'Si'
+    "no": 'No'
+    required:
+      text: 'necesario'
+      mark: ''
+      # You can uncomment the line below if you need to overwrite the whole required html.
+      # When using html, text and mark won't be used.
+      # html: '<abbr title="required">*</abbr>'
+    error_notification:
+      default_message: "Por favor revise los problemas a continuación:"
+    labels:
+      conversation_builder:
+        product: Producto
+        transaction_types: Tipos de transacciones
+        product_name: Ingrese el nombre de su producto
+        program_name: Ingrese el nombre de su programa
+        conversation_name: Nombra tu conversación
+        age_group: "¿Para qué edades debemos optimizar?"
+        income_level: "¿Para qué nivel de ingresos debemos optimizar?"
+        employment_types: "¿Para qué tipos de empleo debemos optimizar?"
+        account_statuses: "¿Para qué estados de cuenta debemos optimizar?"
