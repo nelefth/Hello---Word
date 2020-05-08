@@ -1,0 +1,7 @@
+en:
+  date:
+    formats:
+      default:
+        "%m/%d/%Y"
+      with_weekday:
+        "%a %m/%d/%y"
