@@ -1,0 +1,28 @@
+es:
+  date:
+    formats:
+      default:
+        "%m/%d/%Y"
+      with_weekday:
+        "%a %m/%d/%y"
+
+  time:
+    formats:
+      default:
+        "%a, %b %-d, %Y at %r"
+      date:
+        "%b %-d, %Y"
+      short:
+        "%B %d"
+
+  title: Juntos Conversation Builder
+
+  conversation_builders:
+    composing:
+      title: Seleccione el producto y todos los tipos de transacciones que admitirá la conversación.
+      product_name_tooltip: "Este nombre se usará cuando hagamos referencia a la cuenta del usuario o al tipo de producto en la mensajería. Si deja esto en blanco, los mensajes se referirán a 'su cuenta'. Máximo 20 caracteres"
+      program_name_tooltip: "Este nombre aparecerá como un encabezado en todos los mensajes seguido de dos puntos. Si no se especifica ningún programa, el encabezado será el nombre de su institución. Máximo 12 caracteres"
+      conversation_name_tooltip: Este será el nombre de su conversación en su biblioteca de conversación
+      conversation_name_placeholder: "%{product} conversacion"
+    selecting_target_audience:
+      title: ""
