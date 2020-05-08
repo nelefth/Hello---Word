@@ -1,0 +1,28 @@
+en:
+  date:
+    formats:
+      default:
+        "%m/%d/%Y"
+      with_weekday:
+        "%a %m/%d/%y"
+
+  time:
+    formats:
+      default:
+        "%a, %b %-d, %Y at %r"
+      date:
+        "%b %-d, %Y"
+      short:
+        "%B %d"
+
+  title: Juntos Conversation Builder
+
+  conversation_builders:
+    composing:
+      title: Select the product and all transaction types the conversation will support
+      product_name_tooltip: "This name will be used when we refer to the user's account or product type in the messaging. If you leave this blank, the messages will refer to 'your account'. Maximum 20 characters"
+      program_name_tooltip: This name will appear as a header on all messages followed by a colon. If no program is specified the header will be the name of your institution. Maximum 12 characters
+      conversation_name_tooltip: This will be the name of your conversation in your Conversation library
+      conversation_name_placeholder: "%{product} conversation"
+    selecting_target_audience:
+      title: "We will select use cases, questions and a tone for the conversation"
