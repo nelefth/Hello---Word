@@ -1,0 +1,19 @@
+---
+es:
+  activerecord:
+    attributes:
+      action_network_configuration:
+        api_key: Clave API
+      target:
+        context: Título u organización
+        location: "¿Dónde?"
+        set_published: Permitir que los miembros del público encuentren a este tomador de decisiones en la búsqueda
+        source: Fuente original
+      target_notification:
+        created_at: Enviado a
+        kind_values:
+          new_messages: New Messages
+          new_petition: Nueva petición
+          new_signatures: Nuevas firmas
+          new_messages: Nuevos mensajes
+          new_individual_message: Nuevo mensaje individual
