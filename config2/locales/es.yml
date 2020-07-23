@@ -15,11 +15,11 @@ es:
       short:
         "%B %d"
 
-  title: Juntos Conversation Builder- NINA
+  title: ""
 
   conversation_builders:
     composing:
-      title: ""
+      title: Seleccione el producto y todos los tipos de transacciones que admitirá la conversación. - TEST
       product_name_tooltip: "Este nombre se usará cuando hagamos referencia a la cuenta del usuario o al tipo de producto en la mensajería. Si deja esto en blanco, los mensajes se referirán a 'su cuenta'. Máximo 20 caracteres"
       program_name_tooltip: ""
       conversation_name_tooltip: Este será el nombre de su conversación en su biblioteca de conversación
